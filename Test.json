@@ -10,6 +10,7 @@
         "category" : "Tweaked Apps",
         "description" : "AdGuard is an ultra-efficient ad blocker for Safari. It will not only remove annoying ads but also secure your privacy with advanced tracking protection. AdGuard for iOS is an open source app, its totally transparent and safe to use. ",
         "icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AdGuard.svg/440px-AdGuard.svg.png",
+        "banner" : "https://adguard.com/img/social/og-main.png",
         "screenshots" : [
             "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/04/1c/8e/041c8ea7-34b8-3a7a-1b76-6ef22bd10aa0/pr_source.jpg/392x696bb.jpg",
             "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/df/ae/2b/dfae2bdc-dce6-5fc9-5439-23d7f5b27317/pr_source.jpg/392x696bb.jpg",
