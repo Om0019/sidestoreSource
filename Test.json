@@ -31,6 +31,7 @@
         "category" : "Tweaked Apps",
         "description" : "Watch live TV for free!",
         "icon" : "https://github.com/Om0019/sidestoreSource/raw/main/Icons/AeroTv.png",
+        "banner" : "https://igeeksradar.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-13-at-1.08.28-AM.png",
         "screenshots" : [
             "https://im5.pandahelp.vip/userapp/AppSoft/201703/28/033920849.png",
             "https://im5.pandahelp.vip/userapp/AppSoft/201703/28/033926140.png"
@@ -43,6 +44,7 @@
         "category" : "Tweaked Apps",
         "description" : "Wirelessly mirror any app or anything else on your iPhone/iPad screen to your Chromecast devices via your home network! Designed for Chromecast, Android TV, and various Google Cast-enabled devices (e.g., Sony TV, Philips TV, Toshiba TV, Sharp TV, Nvidia Shield, Razer Forge TV)! No wires, no additional hardware, and no hassles! Simple and easy! Air Mirror App can wirelessly mirror your iPhone/iPad screen to your Chromecast TV via your home network. Just follow the guide below to complete the initial setup and your iPhone/iPad screen will appear instantly on your TV! It's great for watching movies, viewing photos, making presentations, web browsing, and much more!",
        "icon" : "https://github.com/Om0019/sidestoreSource/raw/main/Icons/AirMirror.png",
+       "banner" : "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2d/cf/ad/2dcfad64-4009-da1a-5a16-9ac5fd81d34f/e054b3b6-c925-40f0-af81-bd0649236277_1.png/750x750bb.jpeg",
         "screenshots" : [
             "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/87/13/fa/8713fa80-7eeb-ea47-a314-9dd3e6612f8c/mzl.rpeotgmx.png/392x696bb.png",
             "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/75/4d/6a/754d6ab7-89ae-c8a5-4649-1d7e1ca81841/mzl.wkinfrxo.png/392x696bb.png",
@@ -59,6 +61,7 @@
         "description" : " Ads Free w/o login Custom video playback Auto resume Airplay 2 Support Picture in Picture playback support",
         "changelog" : "Collections section now shows all created collections",
         "icon" : "https://static.appdb.to/images/cydia-1900001008-icon-1666981250.png",
+        "banner" : "https://images.squarespace-cdn.com/content/v1/55fb71b1e4b09b900cf9df2f/1592621581275-FING1185O8M9P3AHRLWZ/Anime+Banner.png",
         "screenshots" : [
             "https://static.appdb.to/images/cydia-1900001008-iphone-0-1666943468.png",
             "https://static.appdb.to/images/cydia-1900001008-iphone-1-1666943469.png",
@@ -169,9 +172,14 @@
         "version" : "115.0v1",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/IG_Plus_v115.0v1.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "Connect with friends, share what you're up to or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.",
+        "icon" : "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/45/ec/c345ecd3-298d-a293-97d3-ea1c50c255be/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
         "screenshots" : [
-            
+            "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/5c/e3/8a/5ce38a57-9d58-e935-5ca3-dd2ae4392312/eaa50ef1-1f48-4223-85ca-c15bb17fef37_home.5.5.png/392x696bb.png",
+            "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/6d/5e/65/6d5e6535-d0ab-47ed-ac4f-5469760b5e7a/782bdbc7-e9f5-4ee9-846e-447f7717b884_thread.5.5.png/392x696bb.png",
+            "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/75/cf/30/75cf3067-400c-f90d-61d5-56513ac46273/6928e47a-235a-452e-ad38-d0c125724de5_explore.5.5.png/392x696bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/39/15/b7/3915b7f9-85a6-040e-228b-2030ee5c855e/0f1f3dc0-c424-404b-8451-a08268469e13_profile.5.5.png/392x696bb.png",
+            "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/d2/d1/35/d2d13557-3fe7-70ca-176e-a6fa9d688ba5/785d8504-61c2-4b6c-9dfc-09f9b4287b56_camera.5.5.png/392x696bb.png"
         ]
     },
     {
@@ -179,9 +187,14 @@
         "version" : "6.7",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/Infuse.Pro.v6.7.v6.7.3858.unk.DY.FW.64bit.os120.ok14.-user_hidden.bfi.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, and Apple TV. No need to convert files! Infuse is optimized for iOS 14, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.",
+        "icon" : "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/13/e8/08/13e80829-753e-258e-eb8d-678a9fb1d3fe/source/100x100bb.jpg",
         "screenshots" : [
-            
+            "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/3e/36/a4/3e36a4b5-680f-3f72-670a-5a27b71ad829/mzl.hujlvvrj.png/392x696bb.png",
+            "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/af/d7/c4afd715-2d12-0514-29c1-4d6950d9a7fa/mzl.wqtdfnzn.png/392x696bb.png",
+            "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/78/a1/55/78a1551f-e940-5dc9-74dd-5da78f951a4e/mzl.oztdvpnp.png/392x696bb.png",
+            "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/df/04/ee/df04ee51-bc01-7381-7367-7137ca03e879/mzl.fjniwlzj.png/392x696bb.png"
+
         ]
     },
     {
@@ -189,9 +202,11 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/iTransmission.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "iTransmission is a free, open-source native BitTorrent client for iOS that uses libtransmission as its backend, the same backend used in the Transmission client for Mac. iTransmission is a fully-featured torrent application that works on your iPhone and now fully supports iPad! ",
+        "icon" : "https://github.com/Om0019/sidestoreSource/blob/main/Icons/Itransmission.png",
         "screenshots" : [
-            
+            "https://static.appdb.to/images/cydia-4-iphone-0.png",
+            "https://static.appdb.to/images/cydia-4-iphone-1.png"
         ]
     },
     {
@@ -199,9 +214,13 @@
         "version" : "1.2.3",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/KakaManga_1.2.3.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "KakaManga is a free go-to app for all your manga reading needs. It provides access to an extensive catalogue of the most popular Manga titles available. You can discover, read manga with the best collection: Lasted Manga, Hot Manga, New Manga, Completed Manga. ",
+        "icon" : "https://im5.pandahelp.vip/userapp/AppIcon/201909/12/031950266.jpg",
         "screenshots" : [
-            
+            "https://im5.pandahelp.vip/adverting/201911/e1a6e881-9.jpg",
+            "https://im5.pandahelp.vip/adverting/201911/d54e162b-f.jpg",
+            "https://im5.pandahelp.vip/adverting/201911/e763a3ce-f.jpg",
+            "https://im5.pandahelp.vip/adverting/201911/5d68e696-b.jpg"
         ]
     },
     {
@@ -209,29 +228,10 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/mediaboxhd_2.2.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "Media Box HD is constantly searching all over the web for the best stream from the most important sites.",
+        "icon" : "https://im5.pandahelp.vip/userapp/AppIcon/201810/08/025027689.jpg",
         "screenshots" : [
-            
-        ]
-    },
-    {
-        "name" : "Mirror Cast Chromecast",
-        "version" : "2.3.6",
-        "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/MirrorCastChromecastTV.v2.3.6.v154.unk.3GS.Univ.64bit.os100.ok12.-user_hidden.bfi.ipa",
-        "category" : "Tweaked Apps",
-        "description" : "",
-        "screenshots" : [
-            
-        ]
-    },
-    {
-        "name" : "Mirror Samsung",
-        "version" : "1.0",
-        "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/MirrorSamsung.v1.0.v1.unk.PI.DY.FW.iPhone5S.Univ.os110.-user_hidden.bfi_1131.ipa",
-        "category" : "Tweaked Apps",
-        "description" : "",
-        "screenshots" : [
-            
+            "https://im5.pandahelp.vip/userapp/AppSoft/201810/08/025045188.jpg"
         ]
     },
     {
@@ -239,9 +239,10 @@
         "version" : "11.6",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/MovieBoxPro_11.6.2.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "MovieBoxPro offers the latest movies, TV shows. MovieBox is compatible with iOS 11 and Later.",
+        "icon" : "https://im5.pandahelp.vip/userapp/AppIcon/201811/14/01493258.jpg",
         "screenshots" : [
-            
+            "https://im5.pandahelp.vip/userapp/AppSoft/201811/14/015027223.jpg"
         ]
     },
     {
@@ -249,9 +250,13 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/Paperback.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "The main features of the app are seamless integration with a fairly popular manga source called MangaDex and an Ad-Free experience. The app allows you to follow manga from different sources and track your progress. It features 2 reading modes at the moment to fit most user's reading preferences.",
+        "icon" : "https://static.appdb.to/images/cydia-1900000984-icon-1660177139.png",
         "screenshots" : [
-            
+            "https://static.appdb.to/images/cydia-1900000984-iphone-0-1660177139.png",
+            "https://static.appdb.to/images/cydia-1900000984-iphone-1-1660177139.png",
+            "https://static.appdb.to/images/cydia-1900000984-iphone-2-1660177139.png",
+            "https://static.appdb.to/images/cydia-1900000984-iphone-3-1660177139.png"
         ]
     },
     {
@@ -259,29 +264,27 @@
         "version" : "7.4.0",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/Photomath_Plus_7.4.0_strejda603.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "Get the math app that gets you! Photomath is the world’s most useful math learning platform, with millions of learners of all levels checking homework, studying for tests, and making new math discoveries every month. ",
+        "icon" : "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/07/a5/b0/07a5b0d3-f9ea-9605-8ecc-d4dcdef0befc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
         "screenshots" : [
-            
-        ]
-    },
-    {
-        "name" : "Popcorn",
-        "version" : "1.0.7.0",
-        "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/Popcorn.v1.0.7.0.ipa",
-        "category" : "Tweaked Apps",
-        "description" : "",
-        "screenshots" : [
-            
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e8/92/28/e8922861-1ca0-079a-f5d2-a89694dca46f/b2cbd19d-5194-41bb-9942-2d8e7375d003_01.png/392x696bb.png",
+            "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/01/d1/81/01d181be-a132-82ee-679b-76e426b3c19b/ca225508-3eaa-4967-80e6-b58924c57123_02.png/392x696bb.png",
+            "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/0f/76/32/0f7632af-a6e6-b38b-dfd2-348afcc97704/bb4aee0c-239b-4446-a07d-cb56120155d2_03.png/392x696bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/1c/62/cc/1c62cce8-29e0-caa3-49a4-285ecc2283f0/090ad97e-bb57-4f6c-a743-33472228a7bf_04.png/392x696bb.png"
         ]
     },
     {
         "name" : "Popcorn Time",
-        "version" : "",
-        "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/PopcornTimeiOS.ipa",
+        "version" : "1.0.7.0",
+        "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/Popcorn.v1.0.7.0.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "Watch free movies and TV Shows on your device with PopcornTime for iOS!",
+        "icon" : "https://static.appdb.to/images/cydia-1900000079-icon.png",
         "screenshots" : [
-            
+            "https://static.appdb.to/images/cydia-1900000079-iphone-0.png",
+            "https://static.appdb.to/images/cydia-1900000079-iphone-1.png",
+            "https://static.appdb.to/images/cydia-1900000079-iphone-2.png",
+            "https://static.appdb.to/images/cydia-1900000079-iphone-3.png"
         ]
     },
     {
@@ -299,9 +302,13 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/Symbolab.20Calculator.20Hack.20No.20Jailbreak.20Cheats.205.3.0.20Hacked.20IPA.20by.20iOSGods.com.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "Symbolab Math Solver & Helper is a new, professional math calculator and math problem solver. Use Symbolab’s photo math scanner to answer questions, get some help with your math homework, or solve math problems with step-by-step solutions. Have a private math tutor in your pocket!",
+        "icon" : "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/88/dc/e7/88dce742-3caa-2705-337e-50526fa9c5e8/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
         "screenshots" : [
-            
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5b/9e/75/5b9e759a-b65f-2312-1eeb-9e55aaca48a7/52489916-ec61-43bc-9f73-529fa97d37e0_Symbolab_2022_iOS_Screens_5.5_U2019_U2019_1242x2208_Concept-2_01.jpg/392x696bb.jpg",
+            "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0e/61/4e/0e614e62-dd75-d3a5-dc08-d705b71e428f/c6d1fb5d-b910-4321-aa27-33bb2df1ca29_Symbolab_2022_iOS_Screens_5.5_U2019_U2019_1242x2208_Concept-2_02.jpg/392x696bb.jpg",
+            "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/26/ae/2d/26ae2d80-e185-ed08-4340-5771cefc3e19/198b7a0d-6896-49f6-981b-d7121a4ea72e_Symbolab_2022_iOS_Screens_5.5_U2019_U2019_1242x2208_Concept-2_03.jpg/392x696bb.jpg",
+            "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/83/e2/a0/83e2a08b-ad8f-0150-12c9-e1572b3f1240/67b90b88-b350-4e24-9a9e-cb7bde1b4363_Symbolab_2022_iOS_Screens_5.5_U2019_U2019_1242x2208_Concept-2_04.jpg/392x696bb.jpg"
         ]
     },
     {
@@ -309,9 +316,13 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/TextNow++.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "Communication should be without limits. Stay connected to what matters most with unlimited texting and calling, without the bill. Download the TextNow app, pick a free phone number (or bring your own) with the US area code of your choice, and start calling and texting now.",
+        "icon" : "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/3a/c4/f73ac409-71b1-1641-69e0-492c9fb37caa/AppIcon-Free-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.jpg",
         "screenshots" : [
-            
+            "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/96/de/95/96de95c3-07e5-0926-a721-6f94b074ecc7/673d5c11-45ce-4183-b20b-6836cbcf4c77_1.png/392x696bb.png",
+            "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/ff/09/2dff097e-83c1-24b1-f5fe-4195f3f4551e/9c58c2e5-4e04-44d0-ae33-91de80dd1cf7_2.png/392x696bb.png",
+            "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/f8/06/a8f806ae-cf0a-7567-84e0-f12493cad2a1/694b94e7-3ccd-44a0-b8aa-1231fe6fe30d_3.png/392x696bb.png",
+            "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/d2/75/8bd2754a-0dc5-2978-d1a7-a0241e8d2648/2c032b0c-bcdf-4465-a015-64277f201013_4.png/392x696bb.png"
         ]
     },
     {
@@ -319,9 +330,14 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/TikTok.20Modded.20No.20Jailbreak.20Cheats.2017.5.1.20Hacked.20IPA.20by.20iOSGods.com.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "From your morning coffee to your evening commute, TikTok has the videos to make your day. Whether you’re a sports fanatic, a travel lover or simply looking for a laugh, there’s something for everyone on TikTok. Enjoy an endless stream of short videos on things you love most. Watch what you like, skip what you don’t.",
+        "icon" : "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/23/e3/7d23e379-242e-cdb2-876b-6697a1103193/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
         "screenshots" : [
-            
+            "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/29/d8/1b29d8ce-b140-5948-7c7f-b75595bd2980/60a70355-5545-4f27-b55a-17f8be65910f__U753b_U677f_7.jpg/392x696bb.jpg",
+            "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/36/d4/ca36d4a7-d031-8ecb-cacf-0d5ac77ffbd1/37abc3b0-ba12-4c85-99f6-4d997b06eb16_img5_5_0_en-GB.jpg/392x696bb.jpg",
+            "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/12/1b/c5121bd9-0092-1bc0-a024-be43c25cce72/484b691b-be6e-49a4-8b14-9849e05478b1__U753b_U677f_8.jpg/392x696bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ab/70/79/ab707907-47bd-b2fd-8744-ee0485ec910c/cac684ea-16fa-4e6e-b330-68863742a4e8_img5_5_2_en-GB.jpg/392x696bb.jpg",
+            "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/04/a4/6e04a428-62dc-8c53-cf60-e6518d093bcf/becf2689-5750-4904-bcb0-c41e7470d7ad_img5_5_3_en-GB.jpg/392x696bb.jpg"
         ]
     },
     {
@@ -329,9 +345,10 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/TrollInstaller.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "TrollStore - Jailed permasigned app installer for iOS 14.0 - 15.1.1",
+        "icon" : "https://static.appdb.to/images/cydia-8974546-icon-1666087124.png",
         "screenshots" : [
-            
+            "https://static.appdb.to/images/cydia-8974546-iphone-0-1662199387.png"
         ]
     },
     {
@@ -339,9 +356,13 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/youtube-music-plus.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "icon" : "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/de/b4/d1deb4a1-d8f9-ef06-2958-8c814b8d9971/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
         "screenshots" : [
-            
+            "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/e0/71/b9e07133-cb38-0f20-d673-d6a754b9bd56/cc6d0aaf-b622-4733-9e37-1bed3a115930_0_APP_IPHONE_55_0.png/392x696bb.png",
+            "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b6/68/69/b66869f7-fb8d-7002-2149-068782d40a31/4e44a898-a81a-4881-9e2d-0aded6371d84_1_APP_IPHONE_55_1.png/392x696bb.png",
+            "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8d/9d/1e/8d9d1e3c-33d0-3045-1f0f-c224ebdd8072/73d1a4e6-8701-4990-8313-daa3886b55ff_2_APP_IPHONE_55_2.png/392x696bb.png",
+            "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/04/1e/c7/041ec701-9afd-b412-f9ab-7d26f60d8cee/2555d299-0cad-4f8b-9c75-158b462a438e_3_APP_IPHONE_55_3.png/392x696bb.png",
+            "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9f/23/d6/9f23d645-acea-d18c-a84c-9678be11b861/4fe33f67-d22f-430a-889d-9dbe09533b8d_4_APP_IPHONE_55_4.png/392x696bb.png"
         ]
     },
     {
@@ -349,9 +370,14 @@
         "version" : "1.3.6",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/ZiniTevi_1.3.6.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
+        "description" : "App for Streaming Movies, Series on iPhoneOS, iPadOS devices. It will be more wonderful when you want to watch on tv with your family as Apple TV, Smart TV, FireStick, Chromecast, Roku, MiBox, PlayStation, Xbox, PC, Laptop, etc ...",
+        "icon" : "https://static.appdb.to/images/cydia-1900000661-icon.png",
         "screenshots" : [
-            
+            "https://im5.pandahelp.vip/adverting/202002/f889c3e3-8.jpg",
+            "https://im5.pandahelp.vip/adverting/202002/48c826ea-d.jpg",
+            "https://im5.pandahelp.vip/adverting/202002/6e8b539e-e.jpg",
+            "https://im5.pandahelp.vip/adverting/202002/e7643f0a-f.jpg",
+            "https://im5.pandahelp.vip/adverting/202002/b4528ba6-f.jpg"
         ]
     }]
 }
