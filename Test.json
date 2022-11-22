@@ -215,7 +215,7 @@
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/KakaManga_1.2.3.ipa",
         "category" : "Tweaked Apps",
         "description" : "KakaManga is a free go-to app for all your manga reading needs. It provides access to an extensive catalogue of the most popular Manga titles available. You can discover, read manga with the best collection: Lasted Manga, Hot Manga, New Manga, Completed Manga. ",
-        "icon" : "https://im5.pandahelp.vip/userapp/AppIcon/201909/12/031950266.jpg",
+        "icon" : "https://tweak-box.com/wp-content/uploads/2019/07/itransmission-icon-large-200px.png",
         "screenshots" : [
             "https://im5.pandahelp.vip/adverting/201911/e1a6e881-9.jpg",
             "https://im5.pandahelp.vip/adverting/201911/d54e162b-f.jpg",
@@ -292,10 +292,7 @@
         "version" : "",
         "down" : "https://github.com/Om0019/sidestoreSource/releases/download/ere/ScarletAlpha.ipa",
         "category" : "Tweaked Apps",
-        "description" : "",
-        "screenshots" : [
-            
-        ]
+        "icon" : "https://github.com/Om0019/sidestoreSource/raw/main/Icons/Scarlet.png"
     },
     {
         "name" : "Symbolab",
