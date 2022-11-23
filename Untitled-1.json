@@ -10,6 +10,7 @@
       "version": "4.4",
       "downloadURL": "https://github.com/Om0019/sidestoreSource/releases/downloadURLload/ere/AdGuard.Pro.v4.4.0.v954.unk.PI.DY.FW.64bit.os112.ok14.-user_hidden.bfi.ipa",
       "category": "Tweaked Apps",
+      "bundleIdentifier" : "com.adguard.AdguardPro",
       "localizedDescription": "AdGuard is an ultra-efficient ad blocker for Safari. It will not only remove annoying ads but also secure your privacy with advanced tracking protection. AdGuard for iOS is an open source app, its totally transparent and safe to use. ",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AdGuard.svg/440px-AdGuard.svg.png",
       "banner": "https://adguard.com/img/social/og-main.png",
