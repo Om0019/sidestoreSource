@@ -3,7 +3,7 @@
   "identifier": "com.quarksources.quantumsource++", 
   "sourceURL": "https://quarksources.github.io/quantumsource%2B%2B.json", 
   "sourceIconURL": "https://quarksources.github.io/assets/ElementQ.png", 
-  "Tweaked": [
+  "apps": [
     {
       "name": "AdGuard Pro",
       "version": "4.4",
