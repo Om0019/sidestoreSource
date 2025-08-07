@@ -1,0 +1,36 @@
+{
+  "name": "AppTesters IPA Repo",
+  "identifier": "org.apptesters.repo",
+  "apps": [
+    {
+      "name": "moneycontrol",
+      "bundleIdentifier": "com.moneycontrol.mc",
+      "version": "11.0.3",
+      "versionDate": "2025-08-07",
+      "localizedDescription": "Injected with Premium",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/moneycontrol_11.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png",
+      "category": "entertainment"
+    },
+    {
+      "name": "Beelinguapp",
+      "bundleIdentifier": "com.beelinguapp.beelinguapp",
+      "version": "3.8.38",
+      "versionDate": "2025-08-07",
+      "localizedDescription": "Injected with Premium",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Beelinguapp_3.8.38_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beelinguapp.beelinguapp.png",
+      "category": "entertainment"
+    },
+    {
+      "name": "FarmVille2",
+      "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
+      "version": "28.0",
+      "versionDate": "2025-08-07",
+      "localizedDescription": "Injected with IGG",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/FarmVille2_28.0_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
+      "category": "games"
+    }
+  ]
+}
